@@ -1,5 +1,5 @@
 # SNOWFALL
-A simple Python tool which performs a basic ServiceNow configuration review.
+A simple Python tool which performs a basic ServiceNow security configuration review.
 
 ## INSTALL
 ```
